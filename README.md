@@ -60,7 +60,7 @@
 
 ## 시스템 구조도
 <p align="center">
-  <img src="FPGA-Based-Real-Time-Stereo-Vision-Using-SAD-and-Census-Algorithms/system%20blockdiagram.png" alt="System Block Diagram" width="800">
+  <img src="system%20blockdiagram.png" alt="System Block Diagram" width="800">
 </p>
 
 ---
