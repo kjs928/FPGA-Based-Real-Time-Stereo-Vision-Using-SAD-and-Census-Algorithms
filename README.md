@@ -14,6 +14,7 @@
 
 ## 프로젝트 결과 영상
 
+[![영상 썸네일](https://img.youtube.com/vi/93XzrqAUgLQ/hqdefault.jpg)](https://youtu.be/93XzrqAUgLQ)
 ---
 
 
