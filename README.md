@@ -59,7 +59,7 @@
 
 
 ## 시스템 구조도
-
+![시스템 블록 다이어그램](./images/system%20blockdiagram.png)
 
 ---
 
