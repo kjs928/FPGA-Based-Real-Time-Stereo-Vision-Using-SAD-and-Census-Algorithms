@@ -59,7 +59,8 @@
 
 
 ## 시스템 구조도
-![시스템 블록 다이어그램](./images/system%20blockdiagram.png)
+![System Block Diagram](FPGA-Based-Real-Time-Stereo-Vision-Using-SAD-and-Census-Algorithms/system%20blockdiagram.png)
+
 
 ---
 
